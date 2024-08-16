@@ -32,3 +32,4 @@ o	Developed user-friendly error messages
 o	Developed a feature to import bids from CSV files
 6.	Deployment Preparation: 
 o	Created detailed deployment instructions for both frontend and backend
+I learned to use many methods and tools I had never used before. This is a very big project, and I ran into a lot of troubleshooting just getting the code to compile. It took me almost five hours to troubleshoot and get cmake to build correctly using the PowerShell window. There was a lot of research and tutorial watching during the full stack build. I have yet to build the front-end part of the project, but I am getting very close to that section. 
