@@ -57,3 +57,28 @@ footer {
     padding: 1rem;
     background-color: #f4f4f4;
 }
+
+#about h2, #about h3, #about h4 {
+    color: #333;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+#about h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 0.5em;
+}
+
+#about p {
+    line-height: 1.6;
+    margin-bottom: 1em;
+}
+
+#about {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
