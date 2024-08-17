@@ -175,3 +175,27 @@ footer {
     background-color: #3498db;
     color: white;
 }
+
+.screenshot-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.screenshot-gallery figure {
+    margin: 10px;
+    max-width: 300px;
+}
+
+.screenshot-gallery img {
+    width: 100%;
+    height: auto;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+.screenshot-gallery figcaption {
+    text-align: center;
+    margin-top: 5px;
+    font-style: italic;
+}
