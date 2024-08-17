@@ -88,12 +88,21 @@
         <p>&copy; 2024 Thomas Gallegos. All rights reserved.</p>
     </footer>
 
-    <script>
+   <script>
     function loadMarkdown(file, elementId) {
         fetch(file)
             .then(response => response.text())
             .then(text => {
+                marked.setOptions({
+                    gfm: true,
+                    breaks: true,
+                    sanitize: false
+                });
                 document.getElementById(elementId).innerHTML = marked.parse(text);
+                // Remove 'active' class from all links
+                document.querySelectorAll('#narratives ul li a').forEach(a => a.classList.remove('active'));
+                // Add 'active' class to clicked link
+                event.target.classList.add('active');
             });
     }
     </script>
