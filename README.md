@@ -58,6 +58,23 @@ In this review, I analyzed the existing functionality, identified areas for impr
 
 While key artifacts are available directly in this repository, a complete set of all project files, including additional documentation and resources, is available in this [Google Drive folder](https://drive.google.com/drive/folders/1s48AC4KvVI9tKMqncM0AxNDKsD7iMxcB?usp=sharing).
 
+## Application Screenshots
+
+![Bid Management System - Home Page](images/BidSystemHomescreen.png)
+*Home page of the Bid Management System*
+
+![Bid System Filtering Options](images/BidSystemFilteringSearch.png)
+*Bid Management Systems Search and Filtering options*
+
+![Bid System Server Startup](images/BidSystemServerStartupDebugWindow.png)
+*Bid Management System Server Startup Debug Window*
+
+![Single Row of Bid](images/BidSystemSingleRowView.png)
+*Single Row Output of Bid System*
+
+![Full Bid System Output View](images/BidSystemFullPageView.png)
+*Full View of Bid Management System Output*
+
 ## Software Design and Engineering
 
 For the software design and engineering enhancement, I transformed the Bid Management System into a full-stack application. Key improvements include:
