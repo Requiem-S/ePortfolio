@@ -118,6 +118,26 @@ footer {
     padding-left: 2em;
 }
 
+#narrative-content ul {
+    list-style-type: disc;
+}
+
+#narrative-content ul ul {
+    list-style-type: circle;
+}
+
+#narrative-content ul ul ul {
+    list-style-type: square;
+}
+
+#narrative-content ol {
+    list-style-type: decimal;
+}
+
+#narrative-content li {
+    margin-bottom: 0.5em;
+}
+
 #narrative-content code {
     background-color: #f0f0f0;
     padding: 2px 4px;
