@@ -66,7 +66,7 @@ For the software design and engineering enhancement, I transformed the Bid Manag
 
 These enhancements demonstrate my ability to design and implement scalable, secure, and efficient software solutions.
 
-[View the enhanced Software Design and Engineering artifacts](artifacts/enhanced/BidManagementServer.cpp)
+[View the enhanced Software Design and Engineering key artifacts](artifacts/enhanced/BidManagementServer.cpp)
 
 ## Algorithms and Data Structure
 
@@ -80,7 +80,7 @@ To improve the system's performance and functionality, I implemented several alg
 
 These enhancements showcase my skills in designing and implementing efficient algorithms and data structures to solve complex problems.
 
-[View the enhanced Algorithms and Data Structure artifacts]:
+[View the enhanced Algorithms and Data Structure key artifacts]:
 - [DatabaseManager.cpp](artifacts/enhanced/DatabaseManager.cpp)
 - [LinkedList.cpp](artifacts/enhanced/LinkedList.cpp)
 - [CSVparser.cpp](artifacts/enhanced/CSVparser.cpp)
@@ -98,7 +98,7 @@ For the database enhancement, I focused on improving data management and retriev
 
 These improvements demonstrate my ability to design and manage databases, ensure data integrity, and optimize database operations for performance.
 
-[View the enhanced Database artifacts](artifacts/enhanced/DatabaseManager.cpp)
+[View the enhanced Database key artifacts](artifacts/enhanced/DatabaseManager.cpp)
 
 ---
 
