@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Thomas Gallegos - ePortfolio</title>
     <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 </head>
 <body>
     <header>
@@ -71,17 +72,28 @@
                 <a href="artifacts/enhanced/databases_artifact.cpp" class="button">View Enhanced Artifact</a>
             </div>
         </section>
-        <section id="narratives">
+       <section id="narratives">
             <h2>Narratives</h2>
             <ul>
-                <li><a href="narratives/software-design-engineering.md">Software Engineering Narrative</a></li>
-                <li><a href="narratives/algorithms-data-structures.md">Algorithms and Data Structures Narrative</a></li>
-                <li><a href="narratives/databases.md">Databases Narrative</a></li>
+                <li><a href="#" onclick="loadMarkdown('narratives/software-design-engineering.md', 'narrative-content'); return false;">Software Design and Engineering Narrative</a></li>
+                <li><a href="#" onclick="loadMarkdown('narratives/algorithms-data-structures.md', 'narrative-content'); return false;">Algorithms and Data Structures Narrative</a></li>
+                <li><a href="#" onclick="loadMarkdown('narratives/databases.md', 'narrative-content'); return false;">Databases Narrative</a></li>
             </ul>
+            <div id="narrative-content"></div>
         </section>
     </main>
     <footer>
         <p>&copy; 2024 Thomas Gallegos. All rights reserved.</p>
     </footer>
+
+    <script>
+    function loadMarkdown(file, elementId) {
+        fetch(file)
+            .then(response => response.text())
+            .then(text => {
+                document.getElementById(elementId).innerHTML = marked.parse(text);
+            });
+    }
+    </script>
 </body>
 </html>
