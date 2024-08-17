@@ -10,11 +10,6 @@ Welcome to my Computer Science ePortfolio. This portfolio showcases my skills an
 5. [Databases](#databases)
 
 ## Professional Self-Assessment
-# Final Project Self-Assessment
-
-## Thomas Gallegos
-### SNHU
-### CS-499-18781-M01 Computer Science Capstone 2024
 
 Throughout my computer science program and the development of this ePortfolio, I've had the opportunity to strengthen my skills, shape my professional goals, and prepare for a career in the dynamic field of computer science. This journey has been transformative, allowing me to showcase my strengths and develop new competencies that are crucial in today's tech-driven world.
 
@@ -53,7 +48,9 @@ This ePortfolio serves as a comprehensive introduction to my capabilities in com
 
 ## Code Review
 
-I conducted a comprehensive code review of the Bid Management System, which served as the foundation for my enhancements. The code review video can be found [here]("https://drive.google.com/file/d/13Yu85qVz12oFvXc77Bc1MNtv5NYC_WRN/preview").
+I conducted a comprehensive code review of the Bid Management System, which served as the foundation for my enhancements. [![Code Review Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://drive.google.com/file/d/13Yu85qVz12oFvXc77Bc1MNtv5NYC_WRN/preview)
+
+Click the image above to watch the code review video.
 
 In this review, I analyzed the existing functionality, identified areas for improvement, and outlined my plans for enhancing the system across three key areas: software design and engineering, algorithms and data structures, and databases.
 
