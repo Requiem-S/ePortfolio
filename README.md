@@ -54,6 +54,10 @@ Click the image above to watch the code review video.
 
 In this review, I analyzed the existing functionality, identified areas for improvement, and outlined my plans for enhancing the system across three key areas: software design and engineering, algorithms and data structures, and databases.
 
+## Full Project Files
+
+While key artifacts are available directly in this repository, a complete set of all project files, including additional documentation and resources, is available in this [Google Drive folder]([YOUR_GOOGLE_DRIVE_LINK](https://drive.google.com/drive/folders/1s48AC4KvVI9tKMqncM0AxNDKsD7iMxcB?usp=sharing)).
+
 ## Software Design and Engineering
 
 For the software design and engineering enhancement, I transformed the Bid Management System into a full-stack application. Key improvements include:
