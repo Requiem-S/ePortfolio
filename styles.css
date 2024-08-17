@@ -82,3 +82,76 @@ footer {
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
 }
+
+#narrative-container {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+#narrative-content {
+    color: #333;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+#narrative-content h1, 
+#narrative-content h2, 
+#narrative-content h3, 
+#narrative-content h4, 
+#narrative-content h5, 
+#narrative-content h6 {
+    color: #2c3e50;
+    margin-top: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+#narrative-content p {
+    margin-bottom: 1em;
+}
+
+#narrative-content ul, 
+#narrative-content ol {
+    margin-bottom: 1em;
+    padding-left: 2em;
+}
+
+#narrative-content code {
+    background-color: #f0f0f0;
+    padding: 2px 4px;
+    border-radius: 3px;
+    font-family: monospace;
+}
+
+#narrative-content pre {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    overflow-x: auto;
+}
+
+#narratives ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#narratives ul li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+#narratives ul li a {
+    text-decoration: none;
+    color: #3498db;
+    padding: 5px 10px;
+    border: 1px solid #3498db;
+    border-radius: 5px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+#narratives ul li a:hover {
+    background-color: #3498db;
+    color: white;
+}
