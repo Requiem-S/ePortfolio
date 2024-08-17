@@ -83,7 +83,7 @@ These enhancements showcase my skills in designing and implementing efficient al
 [View the enhanced Algorithms and Data Structure artifacts]:
 - [DatabaseManager.cpp](artifacts/enhanced/DatabaseManager.cpp)
 - [LinkedList.cpp](artifacts/enhanced/LinkedList.cpp)
-- [HashMap.cpp](artifacts/enhanced/HashMap.cpp)
+- [CSVparser.cpp](artifacts/enhanced/CSVparser.cpp)
 
 ## Databases
 
