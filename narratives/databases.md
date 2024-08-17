@@ -36,35 +36,35 @@ While creating the database enhancement for my artifact, I met several course ou
 ## Enhancements Applied
 
 1. Database Design:
-   - Designed efficient schema for storing bid information
+   - Designed efficient schema for storing bid information.
 
 2. Query Optimization:
-   - Developed optimized SQL queries for filtering, sorting, and pagination
+   - Developed optimized SQL queries for filtering, sorting, and pagination.
 
 3. Data Integrity:
-   - Implemented measures to ensure consistency across database operations
+   - Implemented measures to ensure consistency across database operations.
 
 4. Performance Tuning:
-   - Optimized database queries and indexing for improved performance
+   - Optimized database queries and indexing for improved performance.
 
 5. Security Measures:
-   - Implemented prepared statements to prevent SQL injection
-   - Developed input validation for database operations
+   - Implemented prepared statements to prevent SQL injection.
+   - Developed input validation for database operations.
 
 6. Scalability:
-   - Designed database structure and queries to handle large datasets
+   - Designed database structure and queries to handle large datasets.
 
 7. Data Import/Export:
-   - Developed functionality to import data from CSV files into the database
+   - Developed functionality to import data from CSV files into the database.
 
 8. Error Handling:
-   - Implemented robust error handling for database operations
+   - Implemented robust error handling for database operations.
 
 9. Integration:
-   - Seamlessly integrated database operations with backend logic
+   - Seamlessly integrated database operations with backend logic.
 
 10. Dynamic Query Construction:
-    - Developed a system for dynamically building SQL queries based on user input
+    - Developed a system for dynamically building SQL queries based on user input.
 
 ## Reflection on the Enhancement Process
 
