@@ -39,7 +39,7 @@ The artifacts in this portfolio, centered around the Bid Management System, coll
 
 ### Employability and Professional Growth
 
-As I prepare to enter the computer science field, I feel confident in my ability to contribute meaningfully to software development teams. The range of skills I've developed -- from algorithm design to database management, from game development to client/server architectures -- positions me well for roles in full-stack development, software engineering, or even game development. Courses like Computer Science's Role in Industry have given me insight into how my skills apply in various sectors.
+As I prepare to enter the computer science field, I am confident in my ability to contribute meaningfully to software development teams. The range of skills I've developed -- from algorithm design to database management, from game development to client/server architectures -- positions me well for roles in full-stack development, software engineering, or even game development. Courses like Computer Science's Role in Industry have given me insight into how my skills apply in various sectors.
 
 The process of creating this ePortfolio has made me more employable by forcing me to reflect on and articulate my skills and experiences. It has also provided me with a powerful tool to showcase my abilities to potential employers, giving them a concrete demonstration of my capabilities beyond what a traditional resume can offer. The diverse coursework I've completed, from foundational courses like Discrete Mathematics and Applied Linear Algebra to application-focused courses like Computational Graphics and Visualization, demonstrates my well-rounded education and ability to tackle complex, multidisciplinary problems.
 
