@@ -31,28 +31,28 @@ I met several course outcomes while working on the first enhancement for my arti
 ## Enhancements Applied
 
 1. Frontend Development (React):
-   - Implemented responsive UI for bid management
-   - Created reusable components for filters, sorting, and pagination
-   - Developed state management using React hooks
+   - Implemented responsive UI for bid management.
+   - Created reusable components for filters, sorting, and pagination.
+   - Developed state management using React hooks.
 
 2. Backend Development (C++):
-   - Built a RESTful API using the Crow framework
-   - Implemented CRUD operations for bids
-   - Developed JWT-based authentication system
+   - Built a RESTful API using the Crow framework.
+   - Implemented CRUD operations for bids.
+   - Developed JWT-based authentication system.
 
 3. API Design:
-   - Designed and implemented endpoints for bid management
-   - Created a clear separation between frontend and backend
+   - Designed and implemented endpoints for bid management.
+   - Created a clear separation between frontend and backend.
 
 4. Error Handling:
-   - Implemented comprehensive error handling on both frontend and backend
-   - Developed user-friendly error messages
+   - Implemented comprehensive error handling on both frontend and backend.
+   - Developed user-friendly error messages.
 
 5. CSV Import Functionality:
-   - Developed a feature to import bids from CSV files
+   - Developed a feature to import bids from CSV files.
 
 6. Deployment Preparation:
-   - Created detailed deployment instructions for both frontend and backend
+   - Created detailed deployment instructions for both frontend and backend.
 
 ## Reflection on the Enhancement Process
 
