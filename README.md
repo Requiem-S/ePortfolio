@@ -56,7 +56,7 @@ In this review, I analyzed the existing functionality, identified areas for impr
 
 ## Full Project Files
 
-While key artifacts are available directly in this repository, a complete set of all project files, including additional documentation and resources, is available in this [Google Drive folder}(https://drive.google.com/drive/folders/1s48AC4KvVI9tKMqncM0AxNDKsD7iMxcB?usp=sharing).
+While key artifacts are available directly in this repository, a complete set of all project files, including additional documentation and resources, is available in this [Google Drive folder](https://drive.google.com/drive/folders/1s48AC4KvVI9tKMqncM0AxNDKsD7iMxcB?usp=sharing).
 
 ## Software Design and Engineering
 
