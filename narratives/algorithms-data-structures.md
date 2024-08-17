@@ -34,37 +34,37 @@ I have met several course outcomes while creating the algorithms and data struct
 ## Enhancements Applied
 
 1. Sorting:
-   - Implemented custom sorting algorithms for bid data
-   - Added the ability to export bid data in sorted order
+   - Implemented custom sorting algorithms for bid data.
+   - Added the ability to export bid data in sorted order.
 
 2. Searching:
-   - Developed efficient search functionality across multiple fields
-   - Added binary search capability for efficient bid lookup
-   - Implemented a basic algorithm for suggesting similar bids based on characteristics
+   - Developed efficient search functionality across multiple fields.
+   - Added binary search capability for efficient bid lookup.
+   - Implemented a basic algorithm for suggesting similar bids based on characteristics.
 
 3. Pagination:
-   - Implemented algorithm for paginating large datasets
+   - Implemented algorithm for paginating large datasets.
 
 4. Filtering:
-   - Created algorithms for multi-criteria filtering of bids
-   - Implemented algorithms for filtering by date ranges and bid amounts
+   - Created algorithms for multi-criteria filtering of bids.
+   - Implemented algorithms for filtering by date ranges and bid amounts.
 
 5. Data Structures:
-   - Implemented a custom LinkedList class for sequential bid storage and manipulation
-   - Developed a HashMap class for O(1) lookup time of bids
-   - Integrated LinkedList and HashMap into the DatabaseManager class
+   - Implemented a custom LinkedList class for sequential bid storage and manipulation.
+   - Developed a HashMap class for O(1) lookup time of bids.
+   - Integrated LinkedList and HashMap into the DatabaseManager class.
 
 6. Performance Optimization:
-   - Developed algorithms to balance between in-memory and database operations
-   - Created a performance benchmark to compare LinkedList and HashMap lookup times
-   - Added functionality to resize the HashMap to maintain efficiency dynamically
-   - Optimized memory usage in LinkedList and HashMap implementations
+   - Developed algorithms to balance between in-memory and database operations.
+   - Created a performance benchmark to compare LinkedList and HashMap lookup times.
+   - Added functionality to resize the HashMap to maintain dynamic efficiency.
+   - Optimized memory usage in LinkedList and HashMap implementations.
 
 7. Data Manipulation:
-   - Implemented the ability to traverse and manipulate bid data using iterators
+   - Implemented the ability to traverse and manipulate bid data using iterators.
 
 8. Error Handling:
-   - Implemented error handling and edge case management in data structure operations
+   - Implemented error handling and edge case management in data structure operations.
 
 ## Reflection on the Enhancement Process
 
